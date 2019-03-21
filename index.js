@@ -34,7 +34,7 @@ var REPLACE_ME_FOOD = [
 ]
 
 var bot = new SlackBot({
-    token: "xoxb-17916517136-497093080662-uY9sO6MPsRuiHZbkzYWVcdyq", 
+    token: "", 
     name: 'BotBot'
 })
 
